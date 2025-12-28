@@ -29,7 +29,7 @@ An intelligent meme generator powered by AI that creates funny memes automatical
 ### Local Installation
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/AI-Meme-Generator.git
+git clone https://github.com/Semi-technical/AI-Meme-Generator.git
 cd AI-Meme-Generator
 
 # Install dependencies
@@ -164,8 +164,8 @@ This project is open source and available under the MIT License.
 
 ## 📧 Contact
 
-**Created by:** [KUNJ DARJI]  
-**College:** [LDRP-ITR]  
+**Created by:** KUNJ DARJI  
+**College:** LDRP-ITR  
 **Year:** 2024  
 **Course:** Machine Learning / Computer Science  
 
@@ -176,75 +176,3 @@ Feel free to reach out for questions or collaborations!
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
 Made with ❤️ and AI
-```
-
-### **Step 4: Customize**
-
-**IMPORTANT:** Replace these parts with YOUR information:
-
-Find these lines and change them:
-```
-git clone https://github.com/Semi-technical/AI-Meme-Generator.git
-
-**Created by:** [KUNJ DARJI]  
-
-**College:** [LDRP-ITR]  
-```
-
-### **Step 5: Save It**
-
-1. Scroll down to the bottom
-2. You'll see a box that says "Commit new file"
-3. Click the green **"Commit new file"** button
-
----
-
-## **🎉 CONGRATULATIONS! You're Done!**
-
-Your project is now **completely uploaded** and looks **professional**!
-
----
-
-## **What You Have Now:**
-
-✅ GitHub repository with all files  
-✅ Professional README with badges and formatting  
-✅ Your meme generator code  
-✅ All meme templates  
-✅ Portfolio-ready project  
-
----
-
-## **Your Repository Link:**
-
-Your project is at:
-```
-https://github.com/Semi-technical/AI-Meme-Generator
-```
-
-**Copy this link** and save it! You'll use it for:
-- Resume
-- LinkedIn
-- College submission
-- Job applications
-
----
-
-## **Final Steps (Optional but Recommended):**
-
-### **1. Add Topics to Your Repo**
-
-1. On your repository page, look for **"About"** section (right side)
-2. Click the ⚙️ gear icon
-3. Add these topics (tags):
-```
-   machine-learning
-   artificial-intelligence
-   meme-generator
-   nlp
-   computer-vision
-   python
-   deep-learning
-   gpt-2
-   gradio
-   college-project
