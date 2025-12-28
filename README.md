@@ -164,8 +164,8 @@ This project is open source and available under the MIT License.
 
 ## 📧 Contact
 
-**Created by:** [Your Name]  
-**College:** [Your College Name]  
+**Created by:** [KUNJ DARJI]  
+**College:** [LDRP-ITR]  
 **Year:** 2024  
 **Course:** Machine Learning / Computer Science  
 
@@ -184,14 +184,11 @@ Made with ❤️ and AI
 
 Find these lines and change them:
 ```
-git clone https://github.com/YOUR_USERNAME/AI-Meme-Generator.git
-↑ Change YOUR_USERNAME to your actual GitHub username
+git clone https://github.com/Semi-technical/AI-Meme-Generator.git
 
-**Created by:** [Your Name]  
-↑ Put your real name
+**Created by:** [KUNJ DARJI]  
 
-**College:** [Your College Name]  
-↑ Put your college name
+**College:** [LDRP-ITR]  
 ```
 
 ### **Step 5: Save It**
@@ -222,7 +219,7 @@ Your project is now **completely uploaded** and looks **professional**!
 
 Your project is at:
 ```
-https://github.com/YOUR_USERNAME/AI-Meme-Generator
+https://github.com/Semi-technical/AI-Meme-Generator
 ```
 
 **Copy this link** and save it! You'll use it for:
